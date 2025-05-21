@@ -1,7 +1,6 @@
 package com.salerno.dslist.controllers;
 import com.salerno.dslist.dto.GameDTO;
 import com.salerno.dslist.dto.GameMinDTO;
-import com.salerno.dslist.entities.Game;
 import com.salerno.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
